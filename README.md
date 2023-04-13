@@ -1,5 +1,5 @@
 {
-  "Version": "2.1",
+  "Version": "2.0",
   "UpdateURL": "https://www.example.com/update",
   "Notice": "This is a notice",
   "OBF_A_32_HASH": "ACF8C6B415C817D96A26BA8E80E91C2C",
