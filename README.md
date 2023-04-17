@@ -1,7 +1,7 @@
 {
   "Version": "2.1",
-  "UpdateURL": "https://drive.google.com/file/d/1FzAaccYwRv8xXQbNPb67V2LxY8G46KyG/view?usp=sharing",
-  "Notice": "This is a notice",
+  "UpdateURL": "https://drive.google.com/file/d/1rzk6rSErUoLJIshVflnWEzT_5X-zJ9KA/view?usp=sharing",
+  "Notice": "컴파일된 파일에 WINHTTP.dll 모듈 Import 된 문제 fix",
   "OBF_A_32_HASH": "ACF8C6B415C817D96A26BA8E80E91C2C",
   "OBF_A_64_HASH": "C00A6A2340022D655CD774DC3F7432B1",
   "OBF_BIN_A_32_HASH": "A0742A9B590BD6C1F83944AB33861AA7",
