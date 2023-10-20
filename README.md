@@ -1,6 +1,6 @@
 {
-  "Version": "2.1",
-  "UpdateURL": "https://drive.google.com/file/d/1rzk6rSErUoLJIshVflnWEzT_5X-zJ9KA/view?usp=sharing",
+  "Version": "2.2",
+  "UpdateURL": "http://141.164.48.41/Obfkey2.2.7z",
   "Notice": "컴파일된 파일에 WINHTTP.dll 모듈 Import 된 문제 fix",
   "OBF_A_32_HASH": "ACF8C6B415C817D96A26BA8E80E91C2C",
   "OBF_A_64_HASH": "C00A6A2340022D655CD774DC3F7432B1",
