@@ -1,6 +1,6 @@
 {
   "Version": "2.2",
-  "UpdateURL": "https://shorturl.at/adADN",
+  "UpdateURL": "https://github.com/miketestz/obfkey/releases/download/release/Obfkey2.2.7z",
   "Notice": "안정성 및 용량 큰 스크립트 속도 개선",
   "OBF_A_32_HASH": "ACF8C6B415C817D96A26BA8E80E91C2C",
   "OBF_A_64_HASH": "C00A6A2340022D655CD774DC3F7432B1",
